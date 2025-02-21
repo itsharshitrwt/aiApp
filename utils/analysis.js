@@ -21,7 +21,6 @@ const characterDescriptions = {
 };
 
 async function analyzePersonality(answers, questions) {
-  // Shuffle character descriptions to ensure equal evaluation
   const shuffledCharacters = Object.entries(characterDescriptions)
     .sort(() => Math.random() - 0.5) 
     .map(([name, traits]) => `* **Character Name**: ${name}\n* **Personality Profile**: ${traits}`)
