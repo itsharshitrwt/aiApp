@@ -1,6 +1,9 @@
-# AI Personality Analyzer
+## AI Personality Analyzer (ft. Stranger things)
 
-Welcome to the **AI Personality Analyzer**! This AI-based application utilizes Groq and Node.js to analyze your preferences and predict which character from the beloved series "Stranger Things" you resemble the most. Dive into the Upside Down and discover your personality match!
+Welcome to the **AI Personality Analyzer**! This AI-based application utilizes Groq and Node.js to analyze your preferences and predict which character from the beloved series **Stranger Things** you resemble the most. Dive into the Upside Down and discover your personality match!
+
+![stimg](https://github.com/user-attachments/assets/e707002b-5eb7-43f7-b82c-bbef89cfbe2a)
+
 
 ## Features
 
